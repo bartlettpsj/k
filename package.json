@@ -1,0 +1,26 @@
+{
+  "name": "k",
+  "version": "1.0.0",
+  "description": "",
+  "main": "k.js",
+  "scripts": {
+    "start": "node k.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bartlettpsj/k.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bartlettpsj/k/issues"
+  },
+  "homepage": "https://github.com/bartlettpsj/k#readme",
+  "dependencies": {
+    "koa": "^2.5.2",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "request-promise": "^4.2.2"
+  }
+}
